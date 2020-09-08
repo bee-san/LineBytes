@@ -1,4 +1,6 @@
 # LineBytes
+**Update** I have no idea how to implement this as an iterator, so this project is on pause until then.
+
 .lines() for non-UTF8 files by reading bytes and breaking on 0x0A (linefeed)
 
 You want to read a file line by line.
